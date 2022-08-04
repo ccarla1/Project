@@ -16,7 +16,7 @@ public class Project {
         System.out.println(miCoche.puertas);
     }
     public static int suma(int a, int b, int c){
-        return a+b+c;
+        return a + b + c;
     }
 }
 

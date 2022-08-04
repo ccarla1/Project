@@ -14,8 +14,6 @@ public class Project {
         Coche miCoche = new Coche();
         miCoche.IncrementaPuerta();
         System.out.println(miCoche.puertas);
-        
-        
     }
     public static int suma(int a, int b, int c){
         return a+b+c;

@@ -20,10 +20,11 @@ public class Main {
             System.out.println(numeroWhile);
         }
         
+        int numeroDowhile = 3;
         do{
-            System.out.println(numeroWhile);
-            numeroWhile++;
-        } while(numeroWhile == 0);
+            System.out.println(numeroDowhile);
+            numeroDowhile++;
+        } while(numeroDowhile <3);
         
         
         for(int numeroFor = 0; numeroFor <= 3; numeroFor++){
